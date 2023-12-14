@@ -1,0 +1,29 @@
+---
+categories:
+- poetry
+comments: true
+date: "2018-04-26T00:00:00Z"
+title: NaPoWriMo 2018 Day 26
+---
+  
+## Dubious  
+
+You are a flickering pixel  
+among millions, of unsure  
+colour, generating an image  
+that you can never see.  
+
+You are a smooth stone  
+thrown into a lake by chance  
+that drifts on the current then  
+sinks somewhere in the deep.  
+
+You are an electron lost  
+in a cloud of possibility.  
+Your location a mystery  
+just somewhere in the mist.  
+
+Stories are a quick doodle  
+scrawled onto a blank map  
+that we can point to  
+and say "Look. We are here."  

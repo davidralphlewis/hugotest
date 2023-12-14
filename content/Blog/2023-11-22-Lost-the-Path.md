@@ -1,0 +1,10 @@
+---
+categories:
+- erasure poetry
+date: "2023-11-22T00:00:00Z"
+title: Lost the Path
+---
+
+<img src="https://www.davidralphlewis.co.uk/assets/images/articles/2023/reverb.jpeg" alt="erasure poem: Where are we?/ Echoes from nowhere are strangely comforting/ this place feels forever familiar." title="*Constant Buzzing*" class="responsive"><br>
+
+Erasure poem taken from *Crack* magazine, November 2023.

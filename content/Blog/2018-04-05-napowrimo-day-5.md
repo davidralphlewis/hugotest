@@ -1,0 +1,30 @@
+---
+categories:
+- poetry
+comments: true
+date: "2018-04-05T00:00:00Z"
+title: NaPoWriMo 2018 Day 5
+---
+  
+## Boundary  
+
+I am mostly empty,  
+Ninety-nine percent space.  
+
+A rough carbon frame  
+held up by electricity.  
+
+There is no border between  
+my body and the world.  
+
+Dreams bleed out into  
+the air, leaping sparks  
+
+carried by electrons  
+into continual near nothing  
+
+I touch a table and  
+almost fall through.  
+
+In that last fraction  
+lies everything.  
