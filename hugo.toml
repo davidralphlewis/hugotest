@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://regal-torrone-b7f07a.netlify.app'
+languageCode = 'en-gb'
+title = 'David Ralph Lewis'
 theme = 'ananke'
