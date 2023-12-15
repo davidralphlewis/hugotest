@@ -1,8 +1,18 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'David Ralph Lewis'
-theme = 'PaperMod'
+baseurl = "/"
+title = "My blog"
+theme = "ghostwriter"
 
-ShowReadingTime = true
-ShowBreadCrumbs = true
-ShowPostNavLinks = true
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "David Ralph Lewis"
+    description = "Writer and poet"
+    github = "https://github.com/XXX"
+    twitter = "https://twitter.com/XXX"
+    email = "XXX@example.com"
+    opengraph = true
+    shareTwitter = true
+    dateFormat = "Mon, Jan 2, 2006"
+
+[Permalinks]
+    post = "/:filename/"
