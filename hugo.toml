@@ -1,4 +1,8 @@
-baseURL = 'https://regal-torrone-b7f07a.netlify.app'
-languageCode = 'en-gb'
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
 title = 'David Ralph Lewis'
-theme = 'ananke'
+theme = 'PaperMod'
+
+ShowReadingTime = true
+ShowBreadCrumbs = true
+ShowPostNavLinks = true
